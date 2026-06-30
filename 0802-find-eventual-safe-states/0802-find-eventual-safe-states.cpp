@@ -1,34 +1,43 @@
 class Solution {
 public:
+
+    bool DFS(int node, vector<bool>& path, vector<bool>& visited, vector<vector<int>>& graph){
+        visited[node] = 1;
+        path[node] = 1;
+
+        // travel to eah neigh
+        for(int neigh: graph[node]){
+            
+            // found the cycle
+            if(path[neigh] == 1)    return true;
+
+            // already visited
+            if(visited[neigh] == 1) continue;
+
+            if(DFS(neigh, path, visited, graph))    return true;
+        }
+
+        path[node] = 0;
+        return false;
+    }
+
+
+
     vector<int> eventualSafeNodes(vector<vector<int>>& graph) {
-        int n=graph.size();
-        vector<vector<int>> adj(n);
-        vector<int> indeg(n,0);
-        queue<int> q;
-        for(int i=0;i<n;i++){
-            for(int it:graph[i]){
-                adj[it].push_back(i);
-            }
+        int n = graph.size();
+
+        vector<bool> path(n,0);
+        vector<bool> visited(n,0);
+        
+        for(int i=0; i<n; i++){
+            if(!visited[i]) DFS(i, path, visited, graph);
         }
-        for(int i=0;i<n;i++){
-            for(int it:adj[i]){
-                indeg[it]++;
-            }
-        }
-        for(int i=0;i<n;i++){
-            if(indeg[i]==0) q.push(i);
-        }
+
         vector<int> ans;
-        while(!q.empty()){
-            int node=q.front();
-            q.pop();
-            ans.push_back(node);
-            for(int it:adj[node]){
-                indeg[it]--;
-                if(indeg[it]==0) q.push(it);
-            }
+        for(int i=0; i<n; i++){
+            if(path[i] == false)    ans.push_back(i);
         }
-        sort(ans.begin(),ans.end());
+
         return ans;
     }
 };
