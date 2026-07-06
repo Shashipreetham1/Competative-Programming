@@ -32,4 +32,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Shashipreetham1/Competative-Programming/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Shashipreetham1/Competative-Programming/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/Shashipreetham1/Competative-Programming/tree/master/0802-find-eventual-safe-states) |
+## Array
+|  |
+| ------- |
+| [1288-remove-covered-intervals](https://github.com/Shashipreetham1/Competative-Programming/tree/master/1288-remove-covered-intervals) |
+## Sorting
+|  |
+| ------- |
+| [1288-remove-covered-intervals](https://github.com/Shashipreetham1/Competative-Programming/tree/master/1288-remove-covered-intervals) |
 <!---LeetCode Topics End-->
