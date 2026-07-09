@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/Shashipreetham1/Competative-Programming/tree/master/0785-is-graph-bipartite) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Shashipreetham1/Competative-Programming/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Graph Theory
 |  |
 | ------- |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Shashipreetham1/Competative-Programming/tree/master/0210-course-schedule-ii) |
 | [0785-is-graph-bipartite](https://github.com/Shashipreetham1/Competative-Programming/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/Shashipreetham1/Competative-Programming/tree/master/0802-find-eventual-safe-states) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Shashipreetham1/Competative-Programming/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Topological Sort
 |  |
 | ------- |
@@ -36,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1288-remove-covered-intervals](https://github.com/Shashipreetham1/Competative-Programming/tree/master/1288-remove-covered-intervals) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Shashipreetham1/Competative-Programming/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Sorting
 |  |
 | ------- |
@@ -53,4 +56,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Shashipreetham1/Competative-Programming/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+## Hash Table
+|  |
+| ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Shashipreetham1/Competative-Programming/tree/master/3532-path-existence-queries-in-a-graph-i) |
+## Binary Search
+|  |
+| ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Shashipreetham1/Competative-Programming/tree/master/3532-path-existence-queries-in-a-graph-i) |
 <!---LeetCode Topics End-->
