@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/Shashipreetham1/Competative-Programming/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/Shashipreetham1/Competative-Programming/tree/master/0802-find-eventual-safe-states) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Shashipreetham1/Competative-Programming/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Shashipreetham1/Competative-Programming/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Topological Sort
 |  |
 | ------- |
@@ -40,10 +41,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-minimum-falling-path-sum](https://github.com/Shashipreetham1/Competative-Programming/tree/master/0931-minimum-falling-path-sum) |
 | [1288-remove-covered-intervals](https://github.com/Shashipreetham1/Competative-Programming/tree/master/1288-remove-covered-intervals) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Shashipreetham1/Competative-Programming/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Shashipreetham1/Competative-Programming/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Sorting
 |  |
 | ------- |
 | [1288-remove-covered-intervals](https://github.com/Shashipreetham1/Competative-Programming/tree/master/1288-remove-covered-intervals) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Shashipreetham1/Competative-Programming/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Math
 |  |
 | ------- |
@@ -65,12 +68,26 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Shashipreetham1/Competative-Programming/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Shashipreetham1/Competative-Programming/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0931-minimum-falling-path-sum](https://github.com/Shashipreetham1/Competative-Programming/tree/master/0931-minimum-falling-path-sum) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Shashipreetham1/Competative-Programming/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Matrix
 |  |
 | ------- |
 | [0931-minimum-falling-path-sum](https://github.com/Shashipreetham1/Competative-Programming/tree/master/0931-minimum-falling-path-sum) |
+## Two Pointers
+|  |
+| ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Shashipreetham1/Competative-Programming/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+## Greedy
+|  |
+| ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Shashipreetham1/Competative-Programming/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Shashipreetham1/Competative-Programming/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 <!---LeetCode Topics End-->
