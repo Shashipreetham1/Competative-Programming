@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0931-minimum-falling-path-sum](https://github.com/Shashipreetham1/Competative-Programming/tree/master/0931-minimum-falling-path-sum) |
 | [1288-remove-covered-intervals](https://github.com/Shashipreetham1/Competative-Programming/tree/master/1288-remove-covered-intervals) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Shashipreetham1/Competative-Programming/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Sorting
@@ -64,4 +65,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Shashipreetham1/Competative-Programming/tree/master/3532-path-existence-queries-in-a-graph-i) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0931-minimum-falling-path-sum](https://github.com/Shashipreetham1/Competative-Programming/tree/master/0931-minimum-falling-path-sum) |
+## Matrix
+|  |
+| ------- |
+| [0931-minimum-falling-path-sum](https://github.com/Shashipreetham1/Competative-Programming/tree/master/0931-minimum-falling-path-sum) |
 <!---LeetCode Topics End-->
