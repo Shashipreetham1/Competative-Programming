@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Shashipreetham1/Competative-Programming/tree/master/0210-course-schedule-ii) |
 | [0785-is-graph-bipartite](https://github.com/Shashipreetham1/Competative-Programming/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/Shashipreetham1/Competative-Programming/tree/master/0802-find-eventual-safe-states) |
+| [0834-sum-of-distances-in-tree](https://github.com/Shashipreetham1/Competative-Programming/tree/master/0834-sum-of-distances-in-tree) |
 | [2685-count-the-number-of-complete-components](https://github.com/Shashipreetham1/Competative-Programming/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Shashipreetham1/Competative-Programming/tree/master/0210-course-schedule-ii) |
 | [0785-is-graph-bipartite](https://github.com/Shashipreetham1/Competative-Programming/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/Shashipreetham1/Competative-Programming/tree/master/0802-find-eventual-safe-states) |
+| [0834-sum-of-distances-in-tree](https://github.com/Shashipreetham1/Competative-Programming/tree/master/0834-sum-of-distances-in-tree) |
 | [2685-count-the-number-of-complete-components](https://github.com/Shashipreetham1/Competative-Programming/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Shashipreetham1/Competative-Programming/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Shashipreetham1/Competative-Programming/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0834-sum-of-distances-in-tree](https://github.com/Shashipreetham1/Competative-Programming/tree/master/0834-sum-of-distances-in-tree) |
 | [0931-minimum-falling-path-sum](https://github.com/Shashipreetham1/Competative-Programming/tree/master/0931-minimum-falling-path-sum) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Shashipreetham1/Competative-Programming/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Matrix
@@ -101,4 +104,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/Shashipreetham1/Competative-Programming/tree/master/1291-sequential-digits) |
+## Tree
+|  |
+| ------- |
+| [0834-sum-of-distances-in-tree](https://github.com/Shashipreetham1/Competative-Programming/tree/master/0834-sum-of-distances-in-tree) |
 <!---LeetCode Topics End-->
